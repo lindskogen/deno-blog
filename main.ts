@@ -6,5 +6,5 @@ blog({
     { title: "GitHub", url: "https://github.com/lindskogen" },
     { title: "Twitter", url: "https://twitter.com/jlindsk" }
   ],
-  background: "#002f75",
+  background: "#438eff",
 });
